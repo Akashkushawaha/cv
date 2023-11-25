@@ -1,0 +1,26 @@
+.profile_image{
+border-radius:"50%";
+}
+.discription{
+ font-family: 'Kalam', cursive; 
+ font-weight:bold ;
+}
+.extended_discription{
+    display: flex
+}
+.work_discription{
+    font-family: 'Kalam', cursive;
+    font-size: large; 
+    font-weight:bold    
+}
+.card-img-top {
+    width: 100%;
+    object-fit: cover;
+    max-height: 225px; /* Adjust the maximum height as needed */
+  }  
+.card-body{
+    font-family: 'Kalam', cursive;
+    font-size: large;
+    max-width: 100%;
+    overflow: auto;
+}

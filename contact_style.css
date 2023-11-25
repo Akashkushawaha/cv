@@ -1,0 +1,18 @@
+.card{
+    background-color: green;
+    font-family: 'Kalam', cursive;
+    font-size: large;
+    font-weight:bold
+}
+.contact_me h4{
+    font-weight:bold   
+}
+.name_email{
+    width: 50%;
+}
+.form-control{
+    background-color: rgb(246, 251, 236);
+}
+.message{
+ height:1px;
+}
